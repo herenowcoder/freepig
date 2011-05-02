@@ -1,0 +1,20 @@
+
+freepig = ports indexing graph for freebsd
+
+==========================================
+
+This is a proof-of-concept - or proof-of-disaster - implementation of
+a convenient graph describing FreeBSD ports and their dependencies.
+
+Think of it as FreeBSD's version of the original pig [1] which was
+created to speed up macports.
+
+
+It may mutate in the future into graphs for other package managers
+to speed up things on Linux distrubutions as well.
+
+
+Stay tuned.
+
+
+[1] http://github.com/herenowcoder/pig
