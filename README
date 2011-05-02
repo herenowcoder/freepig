@@ -8,6 +8,8 @@ a convenient graph describing FreeBSD ports and their dependencies.
 
 Think of it as FreeBSD's version of the original pig [1] which was
 created to speed up macports.
+The motivation for using such piece of code is similar as with [2].
+
 
 
 It may mutate in the future into graphs for other package managers
@@ -18,3 +20,4 @@ Stay tuned.
 
 
 [1] http://github.com/herenowcoder/pig
+[2] http://github.com/herenowcoder/fastport
